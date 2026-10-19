@@ -1,0 +1,178 @@
+{
+ "2777aebeb71e5743a135ef2c22ad12ca0bf089fcad497d504470164d7b624b41": {
+  "model": "gemini-2.5-flash",
+  "question": "Can I stop a company from using my data for advertising?",
+  "chunks": [
+   "Recital 70",
+   "Recital 28",
+   "Art. 77(1)"
+  ],
+  "answer": "Yes, you can stop a company from using your data for advertising. Data subjects have the right to object to the processing of their personal data for direct marketing, including related profiling, at any time and free of charge (Recital 70). This right must be explicitly brought to the data subject's attention and presented clearly and separately (Recital 70).",
+  "latency_s": null
+ },
+ "4e3063e11117e1efb27869f42d62bffda2314383fa16b6753934d1d2cbe73fe1": {
+  "model": "gemini-2.5-flash",
+  "question": "Can I stop a company from using my data for advertising?",
+  "chunks": [
+   "Art. 21(3)",
+   "Recital 70",
+   "Recital 6"
+  ],
+  "answer": "Yes, you can stop a company from using your data for advertising. Where you object to processing for direct marketing purposes, your personal data shall no longer be processed for such purposes (Art. 21(3)). This right to object should be explicitly brought to your attention and presented clearly and separately from any other information (Recital 70).",
+  "latency_s": null
+ },
+ "e5662bfc1789c2e04f9003691822046403d3e1fbe3fc6cf4609bd95bcb7cdd42": {
+  "model": "gemini-2.5-flash",
+  "question": "Can someone's religious beliefs be processed if they made them public themselves?",
+  "chunks": [
+   "Recital 55",
+   "Art. 91(1)",
+   "Art. 91(2)"
+  ],
+  "answer": "The provided context does not contain enough information to answer this.",
+  "latency_s": null
+ },
+ "d9a98383095493bc5617a79ec4e19587425da33d9d7866e6abb299bef1921993": {
+  "model": "gemini-2.5-flash",
+  "question": "Can someone's religious beliefs be processed if they made them public themselves?",
+  "chunks": [
+   "Art. 9(2) [part 2]",
+   "Recital 55",
+   "Recital 39"
+  ],
+  "answer": "Yes, someone's religious beliefs can be processed if they have manifestly made them public themselves (Art. 9(2)(e)).",
+  "latency_s": null
+ },
+ "5579b03b7e8cf1f75e7be785ecbafd771b710ada6035c521886b7ff63eaa93fc": {
+  "model": "gemini-2.5-flash",
+  "question": "When is it not prohibited to process data about someone's health?",
+  "chunks": [
+   "Recital 63",
+   "Recital 54",
+   "Recital 35"
+  ],
+  "answer": "Processing data about someone's health is not prohibited when it is necessary for reasons of public interest in public health, even without the data subject's consent (Recital 54). This processing must be subject to suitable measures to protect individuals' rights and freedoms (Recital 54). \"Public health\" includes all elements related to health status, healthcare needs, and provision (Recital 54). However, such data should not be processed for other purposes by third parties like employers or insurance companies (Recital 54).",
+  "latency_s": null
+ },
+ "065b745108108a9897548bb50fe6a3bb7eba1cc7d0d8ccef04082711332d8cf4": {
+  "model": "gemini-2.5-flash",
+  "question": "When is it not prohibited to process data about someone's health?",
+  "chunks": [
+   "Recital 52",
+   "Recital 54",
+   "Art. 9(2) [part 3]"
+  ],
+  "answer": "Processing health data is not prohibited when necessary for preventive or occupational medicine, medical diagnosis, or health/social care provision/management, based on Union/Member State law or contract with a health professional (Art. 9(2)(h)). It's also allowed for public interest reasons in public health, like protecting against serious cross-border threats, provided Union/Member State law includes suitable safeguards (Art. 9(2)(i)). This includes ensuring quality and cost-effectiveness in health insurance claims (Recital 52). Such processing for public health reasons does not require consent (Recital 54).",
+  "latency_s": null
+ },
+ "1cb462dce51b079584ddbd78f708947ee2c4b92fd6b97bfe5f6db380db4d69d2": {
+  "model": "gemini-2.5-flash",
+  "question": "Can a controller refuse to act on a request from a data subject?",
+  "chunks": [
+   "Art. 12(2)",
+   "Recital 64",
+   "Art. 12(4)"
+  ],
+  "answer": "Yes, a controller can refuse to act on a data subject's request if they demonstrate they cannot identify the data subject (Art. 12(2)). The controller should use all reasonable measures to verify the data subject's identity (Recital 64). If the controller refuses, they must inform the data subject of the reasons and their right to complain to a supervisory authority or seek a judicial remedy within one month (Art. 12(4)).",
+  "latency_s": null
+ },
+ "ff44dbfe2831da1f1ded95a314e5e7fc5614fc00d4ab0c9a7e41fcc233fa366a": {
+  "model": "gemini-2.5-flash",
+  "question": "Can a controller refuse to act on a request from a data subject?",
+  "chunks": [
+   "Art. 12(2)",
+   "Art. 12(4)",
+   "Art. 12(5)"
+  ],
+  "answer": "Yes, a controller can refuse to act on a request from a data subject if the requests are manifestly unfounded or excessive, especially due to their repetitive nature (Art. 12(5)). In such cases, the controller must demonstrate the unfounded or excessive character of the request (Art. 12(5)). Additionally, if the controller is not in a position to identify the data subject, they may refuse to act on the request (Art. 12(2)). If a controller refuses to act, they must inform the data subject of the reasons and the possibility of lodging a complaint or seeking a judicial remedy within one month (Art. 12(4)).",
+  "latency_s": null
+ },
+ "9e428eacacad06a26c26ec1538049b2f41c9517dc1adc904caf3ae9a37e98df0": {
+  "model": "gemini-2.5-flash",
+  "question": "Can a company charge me money for giving me a copy of my data?",
+  "chunks": [
+   "Art. 15(3)",
+   "Recital 6",
+   "Recital 62"
+  ],
+  "answer": "Yes, a company can charge you for copies of your data, but only under specific conditions. The controller must provide the first copy of your personal data free of charge (Art. 15(3)). However, for any further copies requested, the controller may charge a reasonable fee based on administrative costs (Art. 15(3)).",
+  "latency_s": null
+ },
+ "7119b8a8cea342df46f018827472844bae16b4bab035f2d7fd5b568c393d7337": {
+  "model": "gemini-2.5-flash",
+  "question": "Can a company charge me money for giving me a copy of my data?",
+  "chunks": [
+   "Art. 15(3)",
+   "Art. 12(5)",
+   "Recital 6"
+  ],
+  "answer": "Yes, a company can charge you for copies of your data under certain circumstances. The first copy of your personal data must be provided free of charge (Art. 12(5)). However, for any further copies requested, the controller may charge a reasonable fee based on administrative costs (Art. 15(3)). Additionally, if your requests are manifestly unfounded or excessive, especially due to their repetitive nature, the controller may charge a reasonable fee (Art. 12(5)).",
+  "latency_s": null
+ },
+ "37bd261c862f4ce54e91ee26e07d39927492c16b2d757fca63d5742cd106fccf": {
+  "model": "gemini-2.5-flash",
+  "question": "Can personal data be sent to a country outside the EU that has no adequacy decision?",
+  "chunks": [
+   "Recital 102",
+   "Recital 107",
+   "Recital 17"
+  ],
+  "answer": "Yes, personal data can be sent to a country outside the EU that has no adequacy decision. However, this is only permissible if the requirements in this Regulation relating to transfers subject to appropriate safeguards, including binding corporate rules, and derogations for specific situations are fulfilled (Recital 107). Member States may also conclude international agreements for such transfers, provided they do not affect this Regulation or other Union law and include appropriate protection for fundamental rights (Recital 102).",
+  "latency_s": null
+ },
+ "663d94fe39ef9691776774f7a0b80a52ee91aae6eb6e615165ec3c18eb4acc5c": {
+  "model": "gemini-2.5-flash",
+  "question": "Can personal data be sent to a country outside the EU that has no adequacy decision?",
+  "chunks": [
+   "Recital 101",
+   "Recital 107",
+   "Art. 49(1) [part 2]"
+  ],
+  "answer": "Yes, personal data can be sent to a country outside the EU without an adequacy decision (Art. 49(1)). This can occur if appropriate safeguards are in place, such as binding corporate rules (Recital 107, Art. 49(1)). Additionally, transfers are permissible under specific derogations, for example, if necessary to protect the vital interests of the data subject who is incapable of giving consent (Art. 49(1)(f)). All transfers must fully comply with the GDPR (Recital 101).",
+  "latency_s": null
+ },
+ "3a849e31ea23fa901c7206afc30c07e3e5cc723cc4709e393175efdcdfe712b4": {
+  "model": "gemini-2.5-flash",
+  "question": "What fine can a company get for failing to appoint a data protection officer?",
+  "chunks": [
+   "Art. 39(1)",
+   "Art. 38(5)",
+   "Art. 38(3)"
+  ],
+  "answer": "The provided context does not contain enough information to answer this.",
+  "latency_s": null
+ },
+ "adeafbfcc247156de0691aab7a1b724682f41d07d5af92dead22caf8183f4940": {
+  "model": "gemini-2.5-flash",
+  "question": "What fine can a company get for failing to appoint a data protection officer?",
+  "chunks": [
+   "Art. 37(2)",
+   "Art. 38(3)",
+   "Art. 38(5)"
+  ],
+  "answer": "The provided context does not contain enough information to answer this.",
+  "latency_s": null
+ },
+ "b5e92340b33c4abb5a4e89806bb7ae787cd176ef90730c07360e06bd7ab98978": {
+  "model": "gemini-2.5-flash",
+  "question": "What are the exceptions to the right to erasure?",
+  "chunks": [
+   "Art. 17(3)",
+   "Art. 17(2)",
+   "Recital 66"
+  ],
+  "answer": "The right to erasure does not apply if processing is necessary for exercising freedom of expression and information (Art. 17(3)(a)), compliance with a legal obligation or public interest tasks (Art. 17(3)(b)), public interest in public health (Art. 17(3)(c)), archiving, scientific, historical, or statistical purposes where erasure would impair objectives (Art. 17(3)(d)), or for legal claims (Art. 17(3)(e)).",
+  "latency_s": null
+ },
+ "7a222fb4dc4f1da6e62845ce5caf7bb63eb9bcb7c0c44e54a02c064fefb7f04b": {
+  "model": "gemini-2.5-flash",
+  "question": "What are the exceptions to the right to erasure?",
+  "chunks": [
+   "Art. 17(2)",
+   "Art. 17(1)",
+   "Recital 66"
+  ],
+  "answer": "The provided context does not contain enough information to answer this.",
+  "latency_s": null
+ }
+}

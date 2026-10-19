@@ -1,0 +1,7 @@
+stage,mean_ms,median_ms,p95_ms
+Bi-encoder: embed query + FAISS top-10 search,14.3,14.4,16.3
+"Cross-encoder: score 10 (query, chunk) pairs",183.7,173.9,254.1
+Pipeline 1 retrieval total (bi-encoder only),14.3,14.4,16.3
+Pipeline 2 retrieval total (bi-encoder + re-rank),198.0,188.7,264.2
+LLM generation – Answer 1,1496.4,1446.4,1848.5
+LLM generation – Answer 2,1353.1,1387.3,1622.5

@@ -1,0 +1,6 @@
+setting,pairs_scored_per_query,time_ms,time_human
+Bi-encoder search over all chunks (vectors pre-computed),598,12.783333892002702,13 ms
+Cross-encoder over top-10 only,10,173.9290209952742,174 ms
+Cross-encoder over ALL chunks of this one PDF,598,6076.513333013281,6077 ms
+"Cross-encoder, extrapolated: 1,000 such documents",598000,6076513.333013281,1.7 h
+"Cross-encoder, extrapolated: 1M-chunk collection",1000000,10161393.533467026,2.8 h

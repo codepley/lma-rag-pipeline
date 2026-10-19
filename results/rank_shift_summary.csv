@@ -1,0 +1,9 @@
+query,failure_type,gold_chunk,baseline_rank,reranked_rank,gold_in_top3_baseline,gold_in_top3_reranked,movement
+Q1,"Keyword trap / synonym – ""advertising"" vs. ""direct marketing""",Art. 21(3),6,1,False,True,#6 → #1
+Q2,Exception / corner case – special-category data the person made public,Art. 9(2) [part 2],10,1,False,True,#10 → #1
+Q3,"Negation – ""not prohibited""",Art. 9(2) [part 3],6,3,False,True,#6 → #3
+Q4,Exception / role limit – when a controller may refuse a data subject,Art. 12(5),7,3,False,True,#7 → #3
+Q5,"Exception – ""free of charge … unless""",Art. 12(5),7,2,False,True,#7 → #2
+Q6,Buried chunk – international transfers without an adequacy decision,Art. 49(1) [part 2],9,3,False,True,#9 → #3
+Q7,Limitation – keyword trap the re-ranker cannot fix,not in top 10,,,False,False,not retrieved
+Q8,Counter-example – re-ranking makes it worse,Art. 17(3),1,4,True,False,#1 → #4
